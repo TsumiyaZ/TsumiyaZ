@@ -1,11 +1,10 @@
-# Hi 👋, My name is Watcharakorn Chatsri
+# Hi!!! 👋, My name is Watcharakorn Chatsri
 
 ## A Computer Science Student and Full Stack Developer
 
 I am an undergraduate student at the Computer Science Department, Mahasarakham University, Thailand. Passionate about building full-stack web applications and AI-powered solutions.
 
 * 🌍 I'm based in Mahasarakham, Thailand
-* ✉️ You can contact me at [wathforwork@gmail.com](mailto:wathforwork@gmail.com)
 
 <p align="left">
   <a href="https://github.com/TsumiyaZ?tab=followers">
@@ -50,10 +49,3 @@ I am an undergraduate student at the Computer Science Department, Mahasarakham U
 </p>
 
 ---
-
-### 📊 GitHub Stats
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TsumiyaZ&show_icons=true&theme=transparent&hide_border=true&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9" height="155" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TsumiyaZ&layout=compact&theme=transparent&hide_border=true&title_color=00b4d8&text_color=c9d1d9" height="155" alt="Top Languages" />
-</div>
