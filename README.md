@@ -1,6 +1,6 @@
 # Hi!!! Everyone 👋, My name is Watcharakorn Chatsri
 
-## A Computer Science Student @ Mahasarakham University
+## A Computer Science Student
 
 I am an undergraduate student at the Computer Science Department, Mahasarakham University, Thailand. Passionate about building full-stack web applications and AI-powered solutions.
 
