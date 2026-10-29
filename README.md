@@ -5,10 +5,8 @@
 I am an undergraduate student at the Computer Science Department, Mahasarakham University, Thailand. Passionate about building full-stack web applications and AI-powered solutions.
 
 <p align="left">
-  <a href="https://github.com/TsumiyaZ?tab=followers">
-    <img src="https://img.shields.io/github/followers/TsumiyaZ?label=Followers&style=for-the-badge&logo=github&color=00b4d8&labelColor=1a1b27" alt="Followers" />
-  </a>&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=TsumiyaZ&label=Profile%20Views&style=for-the-badge&color=00b4d8" alt="Profile views" />
+  <a href="https://github.com/TsumiyaZ?tab=followers"><img src="https://img.shields.io/github/followers/TsumiyaZ?label=Followers&style=for-the-badge&logo=github&color=00b4d8&labelColor=1a1b27" alt="Followers" /></a>&nbsp;
+  <a href="https://github.com/TsumiyaZ"><img src="https://komarev.com/ghpvc/?username=TsumiyaZ&label=Profile%20Views&style=for-the-badge&color=00b4d8" alt="Profile views" /></a>
 </p>
 
 ---
