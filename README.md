@@ -1,52 +1,21 @@
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=TsumiyaZ&style=flat-square&color=blueviolet" alt="Profile views" />
-</div>
-
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,14,20&height=180&section=header&text=Watcharakorn%20Chatsri&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" />
+
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF66&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Full-Stack+Developer;AI+%26+Software+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=550&lines=CS+Undergrad+%40+Mahasarakham+University;Building+AI+%26+Full-Stack+Solutions;Exploring+Edge+AI+%26+Cloud+Systems" alt="Typing SVG" />
   </a>
+
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=TsumiyaZ&label=PROFILE+VIEWS&style=for-the-badge&color=blue" alt="Profile Views" />
+  </p>
 </div>
 
 ---
 
-### 🛠️ Tech Stack (and currently learning)
+### 🚀 About Me
 
-**Programming Languages**
-<br/>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,go,dart,js,ts" />
-</a>
-
-<br/>
-
-**Frameworks & Libraries**
-<br/>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind,express,flutter" />
-</a>
-
-<br/>
-
-**OS & Security**
-<br/>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,windows,apple" />
-</a>
-
-<br/>
-
-**Tools & Databases**
-<br/>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,mysql,supabase" />
-</a>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TsumiyaZ&show_icons=true&theme=tokyonight&hide_border=true" alt="TsumiyaZ's GitHub stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TsumiyaZ&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
-</div>
+```yaml
+Name: Watcharakorn Chatsri (TsumiyaZ)
+Role: Computer Science Student & Software Developer
+Current Focus: AI Applications, Edge Computing, Full-Stack Architecture
+Workspace: Linux (Ubuntu/Kali) & Windows Terminal
