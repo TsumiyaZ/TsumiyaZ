@@ -1,4 +1,4 @@
-# Hi!!! 👋, My name is Watcharakorn Chatsri
+# Hi!!! Everyone 👋, My name is Watcharakorn Chatsri
 
 ## A Computer Science Student
 
