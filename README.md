@@ -41,10 +41,3 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TsumiyaZ&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00F5D4&icon_color=00F5D4" height="155" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TsumiyaZ&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00F5D4" height="155" alt="Top Languages" />
-</div>
