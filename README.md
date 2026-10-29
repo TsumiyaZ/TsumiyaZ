@@ -1,21 +1,48 @@
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=TsumiyaZ&label=Views&color=3b82f6&style=flat-square" alt="Profile Views" />
+</div>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,14,20&height=180&section=header&text=Watcharakorn%20Chatsri&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" />
-
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=550&lines=CS+Undergrad+%40+Mahasarakham+University;Building+AI+%26+Full-Stack+Solutions;Exploring+Edge+AI+%26+Cloud+Systems" alt="Typing SVG" />
-  </a>
-
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=TsumiyaZ&label=PROFILE+VIEWS&style=for-the-badge&color=blue" alt="Profile Views" />
-  </p>
+  <h2>👋 Hi, I'm Watcharakorn Chatsri</h2>
+  <p><b>Computer Science Student @ Mahasarakham University</b></p>
+  <p><i>Focused on Full-Stack Development, AI Integration, and Cloud Infrastructure</i></p>
 </div>
 
 ---
 
-### 🚀 About Me
+### 🛠️ Tech Stack
 
-```yaml
-Name: Watcharakorn Chatsri (TsumiyaZ)
-Role: Computer Science Student & Software Developer
-Current Focus: AI Applications, Edge Computing, Full-Stack Architecture
-Workspace: Linux (Ubuntu/Kali) & Windows Terminal
+<div align="center">
+
+**Languages & Core**
+<br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=py,ts,js,go,c,dart&theme=dark" />
+</a>
+
+<br/>
+
+**Frameworks & Libraries**
+<br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nextjs,angular,vue,express,tailwind,flutter&theme=dark" />
+</a>
+
+<br/>
+
+**Databases, Cloud & Tools**
+<br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=mysql,supabase,docker,linux,git,vscode,postman&theme=dark" />
+</a>
+
+</div>
+
+---
+
+### 📊 GitHub Overview
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TsumiyaZ&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TsumiyaZ&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9" height="150" alt="Top Languages" />
+</div>
