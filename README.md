@@ -1,10 +1,8 @@
 # Hi!!! 👋, My name is Watcharakorn Chatsri
 
-## A Computer Science Student and Full Stack Developer
+## A Computer Science Student
 
 I am an undergraduate student at the Computer Science Department, Mahasarakham University, Thailand. Passionate about building full-stack web applications and AI-powered solutions.
-
-* 🌍 I'm based in Mahasarakham, Thailand
 
 <p align="left">
   <a href="https://github.com/TsumiyaZ?tab=followers">
