@@ -1,10 +1,18 @@
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=TsumiyaZ&style=flat-square&color=00b4d8" alt="Profile views" />
-</div>
+# Hi 👋, My name is Watcharakorn Chatsri
 
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=00F5D4&center=true&vCenter=true&width=550&lines=Watcharakorn+Chatsri+(TsumiyaZ);Computer+Science+%40+MSU;Full-Stack+%26+Software+Developer" alt="Typing SVG" /></a>
-</div>
+## A Computer Science Student and Full Stack Developer
+
+I am an undergraduate student at the Computer Science Department, Mahasarakham University, Thailand. Passionate about building full-stack web applications and AI-powered solutions.
+
+* 🌍 I'm based in Mahasarakham, Thailand
+* ✉️ You can contact me at [wathforwork@gmail.com](mailto:wathforwork@gmail.com)
+
+<p align="left">
+  <a href="https://github.com/TsumiyaZ?tab=followers">
+    <img src="https://img.shields.io/github/followers/TsumiyaZ?label=Followers&style=for-the-badge&logo=github&color=00b4d8&labelColor=1a1b27" alt="Followers" />
+  </a>&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=TsumiyaZ&label=Profile%20Views&style=for-the-badge&color=00b4d8" alt="Profile views" />
+</p>
 
 ---
 
@@ -45,7 +53,7 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TsumiyaZ&show_icons=true&theme=transparent&hide_border=true&title_color=00F5D4&icon_color=00F5D4&text_color=c9d1d9" height="155" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TsumiyaZ&layout=compact&theme=transparent&hide_border=true&title_color=00F5D4&text_color=c9d1d9" height="155" alt="Top Languages" />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=TsumiyaZ&show_icons=true&theme=transparent&hide_border=true&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9" height="155" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TsumiyaZ&layout=compact&theme=transparent&hide_border=true&title_color=00b4d8&text_color=c9d1d9" height="155" alt="Top Languages" />
 </div>
